@@ -244,9 +244,6 @@ Contributions are welcome! Please ensure:
 - Tests pass
 - Performance benchmarks are included for new models
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
